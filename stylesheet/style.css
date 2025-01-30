@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  
+}
+section {
+    flex: 1;
+}
+main{
+    display: flex;
+    gap: 2rem;
+
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+span{
+    text-align: center;
+}
+#Vancouver{
+    border: 1px solid black;
+    padding: 20px
+}
+#SouthKorea {
+    border: 1px solid black;
+    padding: 20px;
+
+}
+#Philippines{
+    border: 1px solid black;
+    padding: 20px;
+}
