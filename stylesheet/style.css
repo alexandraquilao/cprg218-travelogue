@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    background-color: rgb(255, 253, 221);
+    background-color: rgb(255, 250, 221);
 }
 
 header {
@@ -42,8 +42,15 @@ h2{
     font-optical-sizing: auto;
     font-style: normal;
 }
+h3{
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
 span{
-    text-align: center;
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: bold;
 }
 #Vancouver{
     border: 1px solid rgb(159, 40, 40);
@@ -61,9 +68,25 @@ span{
     padding: 20px;
     color: rgb(159, 40, 40)
 }
+ul{
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal
+}
 footer{
     color: rgb(159, 40, 40);
     font-family: "Quicksand", serif;
   font-optical-sizing: auto;
   font-style: normal;
 }
+p{
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal
+}
+hr{
+    background-color: rgb(159, 40, 40);
+    height: 1px;
+    border: none;
+}
+
