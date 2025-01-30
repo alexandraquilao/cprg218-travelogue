@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    background-color: rgb(255, 246, 235);
+    background-color: rgb(255, 253, 221);
 }
 
 header {
@@ -63,4 +63,7 @@ span{
 }
 footer{
     color: rgb(159, 40, 40);
+    font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
