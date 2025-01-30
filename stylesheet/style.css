@@ -4,9 +4,10 @@
 }
 
 header {
-    display: flex;
+    display: b;
     align-items: center;
     text-align: center;
+    padding: 20px;
     color: rgb(159, 40, 40)
    
 }
@@ -19,13 +20,27 @@ main{
     padding: 40px;
 
 }
+
+h1 {
+    font-family: "Ballet", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 60px;
+    
+  } 
+
 h1{
     text-align: center;
     color: rgb(159, 40, 40);
+    
 }
 h2{
     text-align: center;
-    color: rgb(159, 40, 40)
+    color: rgb(159, 40, 40);
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 span{
     text-align: center;
