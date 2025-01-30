@@ -1,12 +1,14 @@
 *{
     box-sizing: border-box;
+    background-color: rgb(255, 246, 235);
 }
 
 header {
     display: flex;
     align-items: center;
     text-align: center;
-  
+    color: rgb(159, 40, 40)
+   
 }
 section {
     flex: 1;
@@ -14,27 +16,36 @@ section {
 main{
     display: flex;
     gap: 2rem;
+    padding: 40px;
 
 }
 h1{
     text-align: center;
+    color: rgb(159, 40, 40);
 }
 h2{
     text-align: center;
+    color: rgb(159, 40, 40)
 }
 span{
     text-align: center;
 }
 #Vancouver{
-    border: 1px solid black;
-    padding: 20px
+    border: 1px solid rgb(159, 40, 40);
+    padding: 20px;
+    color: rgb(159, 40, 40)
 }
 #SouthKorea {
-    border: 1px solid black;
+    border: 1px solid rgb(159, 40, 40);
     padding: 20px;
+    color: rgb(159, 40, 40)
 
 }
 #Philippines{
-    border: 1px solid black;
+    border: 1px solid rgb(159, 40, 40);
     padding: 20px;
+    color: rgb(159, 40, 40)
+}
+footer{
+    color: rgb(159, 40, 40);
 }
